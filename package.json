@@ -30,7 +30,7 @@
   },
   "peerDependencies": {
     "realm": "*"
-  }
+  },
   "devDependencies": {
     "babel-eslint": "^8.0.3",
     "babel-jest": "^21.2.0",
